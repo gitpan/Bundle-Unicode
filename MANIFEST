@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Bundle-Unicode.t
+lib/Bundle/Unicode.pm
+META.yml                                 Module meta-data (added by MakeMaker)
