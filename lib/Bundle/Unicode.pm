@@ -2,7 +2,7 @@ package Bundle::Unicode;
 
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 
@@ -118,10 +118,6 @@ Unicode::RecursiveDowngrade
 
 String::Multibyte
 
-String::Multibyte::Unicode
-
-String::Multibyte::Grapheme
-
 Acme::MetaSyntactic
 
 Scalar::List::Util
@@ -203,6 +199,74 @@ Apache::GuessCharset
 HTML::Entities
 
 HTML::Parser
+
+Unicode::Overload
+
+Catalyst::Plugin::Unicode
+
+Catalyst::Plugin::Unicode::Encoding
+
+Class::Data::Inheritable
+
+Lingua::KO::MacKorean
+
+Lingua::JA::MacJapanese
+
+Lingua::ZH::MacChinese::Simplified
+
+Lingua::ZH::MacChinese::Traditional
+
+Lingua::FA::MacFarsi
+
+Lingua::AR::Arabic
+
+Lingua::HE::MacHebrew
+
+Convert::DUDE
+
+Audio::Taglib
+
+Text::Metaphone
+
+BerkeleyDB
+
+Encode::MAB2table
+
+Lingua::KO::Hangul::Util
+
+Template::Provider::Encoding
+
+Lingua::FA::Number
+
+Unicode::Indic::Bengali
+
+Lingua::RU::Charset
+
+DBIx::Class
+
+BerkeleyDB
+
+Encode::JavaScript::UCS
+
+File::BOM
+
+Convert::Recode
+
+I18N::Charset
+
+I18N::Collate
+
+I18N::LangTags
+
+Net::IDN::Nameprep
+
+Net::IDN::Encode
+
+Sort::ArbBiLex
+
+Local::Constants
+
+Locale::PGetText
 
 
 

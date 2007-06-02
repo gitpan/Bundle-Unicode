@@ -1,13 +1,13 @@
 --- #YAML:1.0
 name:                Bundle-Unicode
-version:             0.01
+version:             0.02
 abstract:            A bundle to install Unicode modules and their dependencies
 license:             ~
-generated_by:        ExtUtils::MakeMaker version 6.31
+generated_by:        ExtUtils::MakeMaker version 6.32
 distribution_type:   module
 requires:     
 meta-spec:
     url:     http://module-build.sourceforge.net/META-spec-v1.2.html
     version: 1.2
 author:
-    - Kevin W. Henwood <Khen1950fx@aol.com>
+    - Kevin W. Henwood <Kevin W. Henwood>

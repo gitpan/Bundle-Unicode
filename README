@@ -1,6 +1,5 @@
-Bundle-Unicode version 0.01
+Bundle-Unicode version 0.02
 ===========================
-
 
 
 INSTALLATION
@@ -20,10 +19,9 @@ This module requires these other modules and libraries:
 
 COPYRIGHT AND LICENCE
 
-
+Put the correct copyright and licence information here.
 
 Copyright (C) 2007 by Kevin W. Henwood
-
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.8 or,
