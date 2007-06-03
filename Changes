@@ -1,6 +1,6 @@
 Revision history for Perl extension Bundle::Unicode.
 
-0.02  Sat Jun  2 13:02:31 2007
+0.03  Sat Jun  2 18:32:32 2007
 	- original version; created by h2xs 1.23 with options
 		-AXcfn Bundle::Unicode
 

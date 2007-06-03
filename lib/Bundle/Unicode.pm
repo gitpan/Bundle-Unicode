@@ -2,12 +2,12 @@ package Bundle::Unicode;
 
 
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 
 1;
-__END__;
+__END__
 
 
 =head1 NAME
@@ -35,8 +35,6 @@ ExtUtils::MakeMaker
 Module::Build
 
 Unicode::Collate
-
-Unicode::Collate::Standard
 
 File::Spec
 
@@ -120,8 +118,6 @@ String::Multibyte
 
 Acme::MetaSyntactic
 
-Scalar::List::Util
-
 IO::Compress::Base
 
 Text::Unidecode
@@ -200,8 +196,6 @@ HTML::Entities
 
 HTML::Parser
 
-Unicode::Overload
-
 Catalyst::Plugin::Unicode
 
 Catalyst::Plugin::Unicode::Encoding
@@ -218,13 +212,13 @@ Lingua::ZH::MacChinese::Traditional
 
 Lingua::FA::MacFarsi
 
-Lingua::AR::Arabic
+Lingua::AR::MacArabic
 
 Lingua::HE::MacHebrew
 
 Convert::DUDE
 
-Audio::Taglib
+Audio::TagLib
 
 Text::Metaphone
 
@@ -264,7 +258,7 @@ Net::IDN::Encode
 
 Sort::ArbBiLex
 
-Local::Constants
+Locale::Constants
 
 Locale::PGetText
 
